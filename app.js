@@ -11,3 +11,5 @@ console.log("Security test");
 console.log("Testing ai review response");
 
 
+eval(userInput);
+console.log(password);
