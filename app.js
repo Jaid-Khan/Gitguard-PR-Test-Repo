@@ -30,3 +30,6 @@ console.log("test-ai-Phase-3.5-Testing-003")
 
 console.log("secret");
 const password = "123456";
+
+const password = "123456";
+const token = "secret_token";
