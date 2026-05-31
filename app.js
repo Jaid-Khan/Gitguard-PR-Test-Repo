@@ -36,3 +36,4 @@ const token = "secret_token";
 
 const password = "1234567890";
 
+console.log("PR Disabled using Postman")
